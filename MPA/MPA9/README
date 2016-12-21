@@ -21,6 +21,7 @@ search all students based on the course
 search all students based on the family name
 search a student based on the student number
 ALL THESE SHOULD BE IMPLEMENTED AS FUNCTIONS (this means, apart from the main, you should have at least 7 functions)
+
 The first input is the number of operations, say T, to be executed followed T inputs which are a combination of type of input (1-7, refer to the listing above) and the actual input.  The output is based on the input type.  If the input type is 1, 2, or 3, the output is the display of all the students in the record. The output for all other input types is still a display but based only on the search criteria. The input should be read from a file named mpa9.in.
 
 The display should print all the information of a student exactly like the following:
